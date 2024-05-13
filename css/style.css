@@ -736,6 +736,7 @@ input:checked + .label--checkbox::before {
 .news__card-text {
     margin-top: 10px;
     width: 100%;
+    padding: 0 20px 20px 20px;
 }
 
 .text-secondary--news {
