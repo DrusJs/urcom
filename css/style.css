@@ -621,7 +621,7 @@ input:checked + .label--checkbox::before {
     text-shadow: none;
 }
 
-.titile-button-row {
+.title-button-row {
     justify-content: space-between;
     align-items: center;
 }
